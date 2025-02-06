@@ -1,0 +1,7 @@
+C:\Users\DELL\Documents\Clases de Nodo segundo Semestre\Clase 3\TerceraClase\TerceraClase\bin\Debug\TerceraClase.exe.config
+C:\Users\DELL\Documents\Clases de Nodo segundo Semestre\Clase 3\TerceraClase\TerceraClase\bin\Debug\TerceraClase.exe
+C:\Users\DELL\Documents\Clases de Nodo segundo Semestre\Clase 3\TerceraClase\TerceraClase\bin\Debug\TerceraClase.pdb
+C:\Users\DELL\Documents\Clases de Nodo segundo Semestre\Clase 3\TerceraClase\TerceraClase\obj\Debug\TerceraClase.csproj.AssemblyReference.cache
+C:\Users\DELL\Documents\Clases de Nodo segundo Semestre\Clase 3\TerceraClase\TerceraClase\obj\Debug\TerceraClase.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\Clases de Nodo segundo Semestre\Clase 3\TerceraClase\TerceraClase\obj\Debug\TerceraClase.exe
+C:\Users\DELL\Documents\Clases de Nodo segundo Semestre\Clase 3\TerceraClase\TerceraClase\obj\Debug\TerceraClase.pdb
