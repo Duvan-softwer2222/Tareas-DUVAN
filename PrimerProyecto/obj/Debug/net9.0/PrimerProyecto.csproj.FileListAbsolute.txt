@@ -1,0 +1,14 @@
+C:\Users\DELL\Documents\Clases de Nodo segundo Semestre\Clase 1\PrimerProyecto\bin\Debug\net9.0\PrimerProyecto.exe
+C:\Users\DELL\Documents\Clases de Nodo segundo Semestre\Clase 1\PrimerProyecto\bin\Debug\net9.0\PrimerProyecto.deps.json
+C:\Users\DELL\Documents\Clases de Nodo segundo Semestre\Clase 1\PrimerProyecto\bin\Debug\net9.0\PrimerProyecto.runtimeconfig.json
+C:\Users\DELL\Documents\Clases de Nodo segundo Semestre\Clase 1\PrimerProyecto\bin\Debug\net9.0\PrimerProyecto.dll
+C:\Users\DELL\Documents\Clases de Nodo segundo Semestre\Clase 1\PrimerProyecto\bin\Debug\net9.0\PrimerProyecto.pdb
+C:\Users\DELL\Documents\Clases de Nodo segundo Semestre\Clase 1\PrimerProyecto\obj\Debug\net9.0\PrimerProyecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Documents\Clases de Nodo segundo Semestre\Clase 1\PrimerProyecto\obj\Debug\net9.0\PrimerProyecto.AssemblyInfoInputs.cache
+C:\Users\DELL\Documents\Clases de Nodo segundo Semestre\Clase 1\PrimerProyecto\obj\Debug\net9.0\PrimerProyecto.AssemblyInfo.cs
+C:\Users\DELL\Documents\Clases de Nodo segundo Semestre\Clase 1\PrimerProyecto\obj\Debug\net9.0\PrimerProyecto.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\Clases de Nodo segundo Semestre\Clase 1\PrimerProyecto\obj\Debug\net9.0\PrimerProyecto.dll
+C:\Users\DELL\Documents\Clases de Nodo segundo Semestre\Clase 1\PrimerProyecto\obj\Debug\net9.0\refint\PrimerProyecto.dll
+C:\Users\DELL\Documents\Clases de Nodo segundo Semestre\Clase 1\PrimerProyecto\obj\Debug\net9.0\PrimerProyecto.pdb
+C:\Users\DELL\Documents\Clases de Nodo segundo Semestre\Clase 1\PrimerProyecto\obj\Debug\net9.0\PrimerProyecto.genruntimeconfig.cache
+C:\Users\DELL\Documents\Clases de Nodo segundo Semestre\Clase 1\PrimerProyecto\obj\Debug\net9.0\ref\PrimerProyecto.dll
