@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Duvan & Rick Batlles</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+      .swipe-animation {
+        transition: transform 0.6s cubic-bezier(0.68, -0.55, 0.27, 1.55), 
+                    opacity 0.6s ease-in-out;
+      }
+      .swipe-like {
+        transform: translateX(350px) rotate(25deg) scale(0.7);
+        opacity: 0;
+      }
+      .swipe-dislike {
+        transform: translateX(-350px) rotate(-25deg) scale(0.7);
+        opacity: 0;
+      }
+
+      .battle-animation {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        position: relative;
+        overflow: hidden;
+      }
+      
+      .fighter {
+        position: relative;
+        animation: float 1.2s ease-in-out infinite alternate;
+      }
+
+      .attack {
+        animation: attack 0.4s ease-out forwards, shake 0.2s ease-in-out 0.4s;
+      }
+
+      @keyframes float {
+        0% {
+          transform: translateY(0);
+        }
+        100% {
+          transform: translateY(-12px);
+        }
+      }
+
+      @keyframes attack {
+        0% {
+          transform: scale(1) translateX(0);
+        }
+        100% {
+          transform: scale(1.2) translateX(40px);
+        }
+      }
+
+      @keyframes shake {
+        0% { transform: translateX(0); }
+        25% { transform: translateX(-8px); }
+        50% { transform: translateX(8px); }
+        75% { transform: translateX(-4px); }
+        100% { transform: translateX(0); }
+      }
+    </style>
+</head>
+<body>
+    <body class="min-h-screen bg-gray-900 text-white flex items-center justify-center p-10">
+        <div class="w-full max-w-md text-center">
+          <h1 class="text-4xl font-bold mb-10">Duvan & Rick Battles</h1>
+          <div id="card-container" class="relative w-full h-96 overflow-hidden rounded-2xl shadow-lg bg-gray-800"></div>
+          <div class="mt-6 space-x-4">
+            <button id="eliminate" class="bg-red-500 px-6 py-2 rounded-lg shadow-lg hover:bg-red-600">Eliminate</button>
+            <button id="select" class="bg-green-500 px-6 py-2 rounded-lg shadow-lg hover:bg-green-600">Select</button>
+            <button id="fight" class="bg-blue-500 px-6 py-2 rounded-lg shadow-lg hover:bg-blue-600">Battle</button>
+          </div>
+          <div class="mt-10">
+            <h2 class="text-2xl mb-4">Selected characters</h2>
+            <ul id="select-list" class="space-y-2 text-left"></ul>
+          </div>
+        </div>
+        <script src="./app.js"></script>
+      </body>
+    
+</body>
+</html>
